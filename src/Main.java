@@ -111,8 +111,6 @@ public class Main {
             }
         }
         System.out.println(" ");
-        System.out.println("Congrats! You guessed the word correctly. It took you only " + tryNum + " tries.");
-        System.out.println("Well... I could have done it in " + (tryNum-1) + " tries but this is not a race ;))");
-        System.out.println("Or is it...");
+        System.out.println("Congrats! You guessed the word correctly. It took you " + tryNum + " tries.");
     }
 }
