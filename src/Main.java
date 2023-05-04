@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
         try {
-            String word1 = FileManager.readFile();
-            check(word1);
+            String word = FileManager.readFile();
+            check(word);
         } catch (FileNotFoundException e) {
             System.out.println(e.getMessage());
         }
