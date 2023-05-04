@@ -112,10 +112,5 @@ public class Main {
         }
         System.out.println(" ");
         System.out.println("Congrats! You guessed the word correctly. It took you " + tryNum + " tries.");
-        System.out.println("Von babilon. Great song.");
-        System.out.println(" ");
-        System.out.println("Hello, my name is Borat");
-
-        System.out.println("Titanic is meh.");
     }
 }
