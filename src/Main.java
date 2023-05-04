@@ -8,7 +8,7 @@ public class Main {
     {
         try
         {
-            String word = FileManager.readFile();
+            String word1 = FileManager.readFile();
             check(word);
         }
         catch(FileNotFoundException e)
