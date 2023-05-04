@@ -8,8 +8,9 @@ public class Main {
     {
         try
         {
-            String word = FileManager.readFile();
-            check(word);
+//             String word = FileManager.readFile();
+//             check(word);
+            // pimpalas
         }
         catch(FileNotFoundException e)
         {
