@@ -8,8 +8,8 @@ public class Main {
     {
         try
         {
-            String word = FileManager.readFile();
-            check(word);
+//             String word = FileManager.readFile();
+//             check(word);
         }
         catch(FileNotFoundException e)
         {
